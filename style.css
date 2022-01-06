@@ -99,6 +99,7 @@ body{
     display: flex;
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 100px;
    
 }
 .third_section_image img{
@@ -116,3 +117,17 @@ body{
     background-position: right;
     background-size: 100px;
 }
+.fourth_section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+   
+}
+.fourth_section_image img{
+    width: 400px;
+    margin-left: 50px;
+}
+.fourth_section_text{
+    margin: auto;
+    padding: 5%;
