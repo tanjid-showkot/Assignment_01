@@ -95,3 +95,24 @@ body{
 .box_three img{
     width: 50%;
 }
+.third_section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+   
+}
+.third_section_image img{
+    width: 400px;
+    margin-left: 50px;
+}
+.third_section_text{
+    margin: auto;
+    padding: 5%;
+}
+.third_section{
+
+    background-image:url(D:\Assignment_01\images\shapes\shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+}
