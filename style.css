@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+    color: #333333;
+};
+   
+
+}
+.squre{
+    height: 115px;
+    width: 3px;
+    border-radius: 10px;
+    background-color: #FF5959;
+    margin-top: 62px;
+    
+}
+.text{
+    font-family: 'Yeseva One', cursive;
+    padding-left: 10px;
+    font-size: 40px;
+
+}
+.text_orange_color{
+    color: #FFAD5A;
+}
+   
+.stay_focused{
+    display: flex;
+}
+.first_section{
+    display: flex;
+    margin-top: 50px;
+        
+}
+.header{
+    width: 50%;
+    padding: 2%;
+    margin-left: 10%;
+}
+.header img{
+    width: 70%;
+
+}
+.button{
+    border: none;
+    background-color:#FF5959;
+    padding: 10px 30px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+
+
+}
