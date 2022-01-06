@@ -36,10 +36,12 @@ body{
 .header{
     width: 50%;
     padding: 2%;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 .header img{
     width: 70%;
+    margin-left: 10%;
+    margin-top: -70px;
 
 }
 .button{
@@ -52,4 +54,44 @@ body{
     border-radius: 5px;
 
 
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+}
+.three_box{
+    display: flex;
+    margin: 5%;
+    margin-top: 0%;
+    justify-content: space-between;
+}
+.box_one{
+    width: 360px;
+    height: 376px;
+    padding: 2%;
+    background: rgba(79, 157, 166, .1);
+    border-radius: 26px;
+}
+.box_two{
+    width: 360px;
+    height: 376px;
+    padding: 2%;
+    background: rgba(255, 89, 89, .1);
+    border-radius: 26px;
+}
+.box_three{
+    width: 360px;
+    height: 376px; 
+    padding: 2%;
+    background: rgba(255, 244, 214, 1);
+    border-radius: 26px;
+}
+.box_one img{
+    width: 50%;
+}
+.box_two img{
+    width: 50%;
+}
+.box_three img{
+    width: 50%;
 }
